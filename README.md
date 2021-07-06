@@ -25,5 +25,5 @@ c4.children << c1
 c4.children << c2
 ```
 ## Nuestro Modelo
-(Untitled.pdf)
+![ERD diagram](Untitled.pdf)
 
